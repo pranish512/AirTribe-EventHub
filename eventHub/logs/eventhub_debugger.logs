@@ -1,0 +1,8 @@
+2026-05-23 09:58:30 - app.middleware - INFO - [REQUEST] GET /api/reservations/ - Query Params: {}
+2026-05-23 09:58:30 - app.middleware - INFO - [RESPONSE] GET /api/reservations/ - Status: 200 - Duration: 0.064s
+2026-05-23 09:58:38 - app.middleware - INFO - [REQUEST] GET /api/reservations/ - Query Params: {}
+2026-05-23 09:58:38 - app.middleware - INFO - [RESPONSE] GET /api/reservations/ - Status: 200 - Duration: 0.010s
+2026-05-23 09:58:53 - app.middleware - INFO - [REQUEST] POST /api/reservations/ - Query Params: {}
+2026-05-23 09:58:53 - app.middleware - INFO - [RESPONSE] POST /api/reservations/ - Status: 201 - Duration: 0.165s
+2026-05-23 10:02:21 - app.middleware - INFO - [REQUEST] POST /api/reservations/ - Query Params: {}
+2026-05-23 10:03:42 - app.middleware - INFO - [RESPONSE] POST /api/reservations/ - Status: 201 - Duration: 82.722s
