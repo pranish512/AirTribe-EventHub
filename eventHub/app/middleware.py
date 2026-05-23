@@ -42,7 +42,7 @@ class RequestLoggingMiddleware:
     def __call__(self, request):
         start_time = time.time()
         # Log incoming request
-        breakpoint()
+        
         logger.info(f"[REQUEST] {request.method} {request.path} - Query Params: {dict(request.GET)}")
         
         response = self.get_response(request)
