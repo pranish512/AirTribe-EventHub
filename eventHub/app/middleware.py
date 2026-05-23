@@ -56,4 +56,3 @@ class RequestLoggingMiddleware:
             logger.warning(f"[ERROR] {request.method} {request.path} - Status: {response.status_code}")
         
         return response
-    
